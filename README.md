@@ -2,16 +2,16 @@
 
 > 一个基于 phalcon3.x 开发的云储存平台
 
-# 安装依赖包
+### 安装依赖包
 
 ``` bash
 git clone https://github.com/Beatrice950201/eibk_service.git
 
-cd eibk_client
+cd eibk_service
 
 composer install
 ```
-# 安装Phalcon
+### 安装Phalcon
 
 ``` bash
 
@@ -23,7 +23,7 @@ Phalcon安装教程请查看逛网
 
 ```
 
-# 数据库配置
+### 数据库配置
 ``` bash
 数据库文件存于public目录下eibk.sql
 
@@ -44,7 +44,7 @@ Phalcon安装教程请查看逛网
 
 ```
 
-# 储存配置
+### 储存配置
 ``` bash
 本系统采用七牛云储存
 
@@ -61,7 +61,7 @@ Phalcon安装教程请查看逛网
     ],
 ```
 
-##### 客户端代码
+### 客户端代码
 
 ``` bash
 https://github.com/Beatrice950201/eibk_client

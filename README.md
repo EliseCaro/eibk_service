@@ -63,9 +63,7 @@ Phalcon安装教程请查看逛网
 
 ### 客户端代码
 
-``` bash
-https://github.com/Beatrice950201/eibk_client
-```
+[https://github.com/Beatrice950201/eibk_client](https://github.com/Beatrice950201/eibk_client)
 
 ### 如有疑问请联系本人
 

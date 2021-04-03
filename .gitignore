@@ -1,0 +1,9 @@
+.idea/
+/vendor/*
+
+#
+#./public/.htaccess
+#./public/.htaccess_api
+#./public/nginx.htaccess
+#
+#./app/config/config.php

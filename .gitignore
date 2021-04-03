@@ -1,10 +1,7 @@
 .idea/
 /vendor/*
 composer.lock
-
-#
-#./public/.htaccess
-#./public/.htaccess_api
-#./public/nginx.htaccess
-#
-#./app/config/config.php
+/public/.htaccess_api
+/public/.htaccess
+/public/nginx.htaccess
+/app/config/config.php

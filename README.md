@@ -61,6 +61,12 @@ Phalcon安装教程请查看逛网
     ],
 ```
 
+### 伪静态配置
+``` bash
+ nginx伪静态：rewrite ^/(.*)$ /index.php?_url=/api/$1;
+ Apache请自行翻译，这里不做介绍
+```
+
 ### 客户端代码
 
 [https://github.com/Beatrice950201/eibk_client](https://github.com/Beatrice950201/eibk_client)

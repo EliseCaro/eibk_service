@@ -1,7 +1,0 @@
-.idea/
-/vendor/*
-./public/.htaccess
-./public/.htaccess_api
-./public/nginx.htaccess
-./composer.lock
-./app/config/config.php

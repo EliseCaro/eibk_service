@@ -11,9 +11,9 @@ return new \Phalcon\Config([
     'version' => '1.0',
     'database' => [
         'adapter'  => 'Mysql',
-        'host'     => '',// 填写链接地址：例如：127.0.0.1
-        'username' => '',// 填写数据库用户名：例如：root
-        'password' => '',// 填写数据库密码
+        'host'     => '127.0.0.1',// 填写链接地址：例如：127.0.0.1
+        'username' => 'root',// 填写数据库用户名：例如：root
+        'password' => 'root',// 填写数据库密码
         'dbname'   => 'eibk',
         'prefix'   => 'ek_',
         'charset'  => 'utf8',

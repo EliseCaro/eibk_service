@@ -1,1 +1,0 @@
- rewrite ^/(.*)$ /index.php?_url=/index/$1;

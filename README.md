@@ -5,7 +5,7 @@
 ### 安装依赖包
 
 ``` bash
-git clone https://github.com/Beatrice950201/eibk_service.git
+git clone https://github.com/EliseCaro/eibk_service.git
 
 cd eibk_service
 
@@ -69,7 +69,7 @@ Phalcon安装教程请查看逛网
 
 ### 客户端代码
 
-[https://github.com/EliseCaro/eibk_client](https://github.com/Beatrice950201/eibk_client)
+[https://github.com/EliseCaro/eibk_client](https://github.com/EliseCaro/eibk_client)
 
 ### 如有疑问请联系本人
 
